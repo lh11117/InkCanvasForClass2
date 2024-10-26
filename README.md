@@ -1,4 +1,8 @@
-# 发生了什么？
+# 此分支将被删除！
+请切换到 `main` 分支。
+<https://github.com/lh11117/InkCanvasForClass2/tree/main>
+
+<!-- # 发生了什么？
 
 一切化成了灰烬。这曾经也是美好的一抹遐思...
 
@@ -45,4 +49,4 @@
   <a href="https://github.com/iNKORE-NET/UI.WPF.Modern/watchers"><img src="https://img.shields.io/github/watchers/iNKORE-NET/UI.WPF.Modern?style=social" alt="Watches"></a>
   <a href="https://github.com/iNKORE-NET/UI.WPF.Modern/discussions"><img src="https://img.shields.io/github/discussions/iNKORE-NET/UI.WPF.Modern?style=social" alt="Discussions"></a>
   <a href="https://discord.gg/m6NPNVk4bs"><img src="https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord" alt="Discord"></a>
-  <a href="https://twitter.com/NotYoojun"><img src="https://img.shields.io/twitter/follow/NotYoojun?style=social" alt="NotYoojun's Twitter"></a>
+  <a href="https://twitter.com/NotYoojun"><img src="https://img.shields.io/twitter/follow/NotYoojun?style=social" alt="NotYoojun's Twitter"></a> -->
